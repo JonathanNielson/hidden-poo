@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# vim swp
+*.swp
+
 # production
 /build
 
